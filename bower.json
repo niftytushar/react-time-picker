@@ -1,0 +1,29 @@
+{
+  "name": "react-time-picker",
+  "version": "0.0.0",
+  "description": "react-time-picker",
+  "main": "dist/react-time-picker.min.js",
+  "homepage": "https://github.com/niftytushar/react-time-picker",
+  "authors": [
+    "Tushar Agarwal"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "react",
+    "react-component"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".editorconfig",
+    ".gitignore",
+    "package.json",
+    "src",
+    "node_modules",
+    "example",
+    "test"
+  ]
+}
